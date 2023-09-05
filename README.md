@@ -51,7 +51,7 @@ We suggest using the Mamba (or Anaconda) package manager to install dependencies
 
 ```python ensemble_whole_image_inference.py```
 
--This script will read in the saved models and perform inference on the test image provided.
+-This script will use the saved models provided.
 
 ### Calculate test results
 -To calculate the test results on the DeepSeagrass test dataset, run the following script:
