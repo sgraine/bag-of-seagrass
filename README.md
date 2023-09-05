@@ -26,6 +26,8 @@ YouTube Video: \[[Video](https://youtu.be/TeyjcVYFaKY)]
 ## Table of Contents
 - [Installation](#installation)
 - [Quick Start](#quick-start)
+- [Training From Scratch](#train)
+- [Datasets](#datasets)
 - [Acknowledgements](#acknowledgements)
 
 <a name="installation"></a>
@@ -40,7 +42,6 @@ We suggest using the Mamba (or Anaconda) package manager to install dependencies
 ```mamba install imgaug```
 
 <a name="quick-start"></a>
-
 ## Quick Start 
 
 ### Inference
@@ -74,6 +75,7 @@ Code
 
 -SeaCLIP trained end-to-end: ```SeaCLIP.pt```
 
+<a name="train"></a>
 ## Training From Scratch
 
 ### 1. SeaFeats
