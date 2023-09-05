@@ -45,7 +45,7 @@ We suggest using the Mamba (or Anaconda) package manager to install dependencies
 ## Quick Start 
 
 ### Inference
--Models and script provided for our ensemble of SeaCLIP and SeaFeats to perform inference on a test image (provided).
+-Models and script provided for our ensemble of SeaCLIP and SeaFeats to perform inference on a test image, assuming that it is placed in a folder called 'TestImage'.  The output inferences will be saved, assuming there is a folder available in the directory called 'SaveTestInferences'.
 
 -Run the inference script:
 
