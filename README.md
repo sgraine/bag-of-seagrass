@@ -71,9 +71,10 @@ Code
 ```
 
 ### Trained models provided
+- Models are available on \[[Google Drive](https://drive.google.com/drive/folders/1tHkoVnfg8K-u0YQUG4Di3pLgIr7AQMlD?usp=sharing)]
 
+We provide the following:
 - SeaFeats trained end-to-end: ```SeaFeats.pt```
-
 - SeaCLIP trained end-to-end: ```SeaCLIP.pt```
 
 <a name="train"></a>
