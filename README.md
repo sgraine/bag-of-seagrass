@@ -20,10 +20,12 @@ Raine, S., Marchant, R., Kusy, B., Maire, F. and Fischer, T. 2024. Image labels 
 
 ```
 
-The full paper can be accessed at: \[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raine_Image_Labels_Are_All_You_Need_for_Coarse_Seagrass_Segmentation_WACV_2024_paper.pdf)]
-The supplementary material can be accessed at: \[[Supplementary Material](https://arxiv.org/pdf/2303.00973.pdf)]
+The full paper can be accessed at: \[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raine_Image_Labels_Are_All_You_Need_for_Coarse_Seagrass_Segmentation_WACV_2024_paper.pdf)].
 
-YouTube Video: \[[Video](https://www.youtube.com/watch?v=cNbdV_dgp_U)]
+
+The supplementary material can be accessed at: \[[Supplementary Material](https://arxiv.org/pdf/2303.00973.pdf)].
+
+YouTube Video: \[[Video](https://www.youtube.com/watch?v=cNbdV_dgp_U)].
 
 ## Table of Contents
 - [Installation](#installation)
